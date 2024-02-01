@@ -4,13 +4,13 @@
 - 📫 Como puedes localizarme: **robergomez.gomez@gmail.com**
 
 - 📄 Sobre mi: Desarrollador Android Junior con experiencia profesional desde Julio del 2022 y curricular desde 2021. Mi objetivo es desarrollarme profesionalmente y evolucionar en mi sector, de modo que busco oportunidades que me permitan hacerlo, al tiempo que trataré de alinearme completamente con los objetivos de la empresa.
-  • Desarrollo de aplicaciones Android (Kotlin), mediante patrones de diseño MVVM y Clean Architecture.
-  • Test Unitarios (Mockk)
-  • Inyección de dependencias con DaggerHilt,
-  • Librerías: Retrofit, Navigation Component
-  • Android Studio, SDK de Android, Firebase
-  • Control de versiones Git, GitHub
-  • Preparación y lanzamiento de la app en Play Store.
+  * Desarrollo de aplicaciones Android (Kotlin), mediante patrones de diseño MVVM y Clean Architecture.
+  * Test Unitarios (Mockk)
+  * Inyección de dependencias con DaggerHilt,
+  * Librerías: Retrofit, Navigation Component
+  * Android Studio, SDK de Android, Firebase
+  * Control de versiones Git, GitHub
+  * Preparación y lanzamiento de la app en Play Store.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
